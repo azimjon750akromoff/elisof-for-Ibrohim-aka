@@ -58,13 +58,14 @@ const CardSwiper = () => {
       {newsItems.map((news) => (
         <SwiperSlide key={news.id}>
           <Link href={`/uz/news/${news.id}`} passHref>
-            <div className="
-              flex flex-col items-center 
-              rounded-[8px] border border-[#E1E4ED] bg-[#FFF] 
-              shadow-[0px_1px_4px_0px_rgba(25,33,61,0.08)] cursor-pointer
-              w-[338px] h-[554px] ml-2
-              max-[420px]:w-[310px] max-[420px]:h-[500px]
-            ">
+          <div className="
+  flex flex-col items-center 
+  rounded-[8px] border border-[#E1E4ED] bg-[#FFF] 
+  shadow-[0px_1px_4px_0px_rgba(25,33,61,0.08)] cursor-pointer
+  w-full max-w-[338px] h-[554px] mx-auto
+  max-[420px]:max-w-[310px] max-[420px]:h-[500px]
+">
+
               <Image
                 loading="lazy"
                 src={news.image}

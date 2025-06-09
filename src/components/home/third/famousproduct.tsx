@@ -32,7 +32,7 @@ function FamousProduct() {
     <section className="pt-[30px] md:pt-[60px]">
       <div className="famous-product">
         <div className="container">
-          <div className="famous-product-main flex flex-col md:flex-row items-center gap-6">
+        <div className="famous-product-main flex flex-col md:flex-row items-center justify-center min-h-screen md:min-h-[unset] gap-6">
             {/* Image Container */}
             <div className="w-[200px] h-[200px] md:w-[543px] md:h-[523px] flex items-center justify-center rounded-full bg-white shadow-lg">
               <Image
@@ -58,7 +58,7 @@ function FamousProduct() {
                 Curabitur fringilla arcu varius.
               </p>
               <MyButton />
-              <div className="flex gap-[0.75rem] ml-[-5px] md:gap-[15px] pt-4 md:pt-[30px] justify-center md:justify-start mx-auto md:mx-0">
+              <div className="flex gap-[0.75rem] md:gap-[15px] pt-4 md:pt-[30px] justify-center md:justify-start w-full">
                 {miniShirtImages.map((img, index) => (
                   <MiniShirts
                     key={index}
