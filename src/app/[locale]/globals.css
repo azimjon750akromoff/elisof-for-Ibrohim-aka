@@ -1,0 +1,200 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  overflow-x: hidden;
+}
+
+
+.my-container {
+  max-width: 1170px;
+  margin-right: auto;
+  margin-left: auto;
+  /* border: 1px solid red; */
+  padding-top: 20px;
+  width: 100%;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.container {
+  max-width: 1170px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+  /* border: 1px solid red; */
+}
+
+.bg-uzor {
+  background-image: url('/imgs/uzor.png');
+  background-size: auto;
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  width: 98%;
+  height: 135px;
+  margin-left: 400px;
+  margin-top: 80px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1; /* Keep the background behind everything else */
+}
+
+.relative {
+  position: relative;
+}
+
+.relative > .feedback-container {
+  z-index: 1; /* Ensure that Feedback stays above the background */
+}
+
+
+@media (max-width: 768px) {
+  .bg-uzor {
+    margin-left: 200px; /* Adjust for smaller screens */
+    margin-top: 40px; /* Adjust for smaller screens */
+  }
+}
+
+/* Responsive container */
+@media (max-width: 768px) {
+  .container {
+    max-width: 90%; /* Makes it more fluid on smaller screens */
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+}
+
+.swiper_wrapper {
+  /* border: 1px solid red; */
+}
+
+.test {
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: end;
+}
+
+.test_wrapper {
+  /* border: 1px solid blue; */
+  max-width: 100%;
+  width: 100%;
+  background-size: cover;
+  background-position: center right;
+   /* Adjust background alignment */
+}
+
+.max-container {
+  max-width: 1300px;
+  width: 100%;
+  padding-top: 20px;
+
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.maxi-container {
+  margin-top: 30px;
+  max-width: 1700px;
+  padding-top: 20px;
+
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+:root {
+  --swiper-navigation-color: black !important;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.perspective-1000 {
+  perspective: 1000px;
+}
+
+.transform-style-3d {
+  transform-style: preserve-3d;
+}
+
+.rotate-y-0 {
+  transform: rotateY(0deg);
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+}
+
+.swiper-pagination-bullet {
+  width: 12px;
+  height: 12px;
+  background-color: #6d758f;
+  opacity: 0.5;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #0f1e3d;
+  opacity: 1;
+}
+
+
+.famous-product {
+  background-image: url('/imgs/background.png');
+  background-size: cover;
+  background-position: center right;
+  margin: 5% auto; /* Centers the container */
+  padding: 30px; /* Reduced padding for better responsiveness */
+  border-radius: 20px; /* Less aggressive for mobile */
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  @media (min-width: 768px) {
+    margin-left: 13%;
+    padding: 50px;
+    border-radius: 377px 0 0 377px;
+  }
+}
+
+.famous-product-main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 1%;
+  gap: 20px;
+
+  @media (min-width: 768px) {
+    flex-direction: row;
+    gap: 40px;
+  }
+}
+
+
+  .disabled-input {
+    pointer-events: auto;
+  }
+
+
+
+  .input-container {
+    position: relative;
+    min-height: 80px; 
+  }
+  
+  .text-red-500 {
+    position: absolute;
+    bottom: -20px;
+    font-size: 14px;
+  }
+  

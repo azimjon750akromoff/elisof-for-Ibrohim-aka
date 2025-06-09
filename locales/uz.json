@@ -1,0 +1,365 @@
+{
+  "Header": {
+    "Nav": {
+      "Home": { "name": "Bosh sahifa","link": "/"},
+      "Products": { "name": "Mahsulotlar", "link": "#products" },
+      "AboutUs": { "name": "Biz haqimizda", "link": "#about" },
+      "OurClients": { "name": "Mijozlarimiz", "link": "#clients" },
+      "News": { "name": "Yangiliklar", "link": "#news" },
+      "ContactUs": { "name": "Biz bilan bog‘lanish", "link": "#contacts" }
+    }
+  },
+  "ScriptsBeautiful":{
+    "firsttext": "Bizning zamonaviy ko‘ylaklarimizga tayyor bo‘ling",
+    "secondtext": "Yuqori sifatli formalarni kashf eting",
+    "thirdtext": "Dizaynlarimiz bilan qulaylikni his eting"
+  },
+  "BestSeller": {
+    "bestseller": "Eng ko‘p sotilgan mahsulotlar",
+    "shirt": "Yashil futbolka",
+    "material": "Material: 100% paxta",
+    "sizes": "Mavjud o‘lchamlar: S; M; L",
+    "unisex": "Kim uchun: Erkaklar va ayollar"
+  },
+  "Buttons": {
+    "fmsproduct": "Mashhur mahsulot",
+    "contactuss": "Biz bilan bog‘laning",
+    "prev": "Oldingi",
+    "next": "Keyingi",
+    "sendrequest": "So‘rov yuboring"
+  },
+  "Form": {
+    "name": "Ism va familiya",
+    "lname": "Familiya",
+    "email": "Elektron pochta",
+    "number": "Telefon raqami",
+    "descript": "Tavsif",
+    "errors": {
+      "name": "Ism kamida 3 ta belgi bo'lishi kerak",
+      "name_max": "Ism 50 belgidan oshmasligi kerak",
+      "lname": "Familiya kamida 3 ta belgi bo'lishi kerak",
+      "lname_max": "Familiya 50 belgidan oshmasligi kerak",
+      "email": "Elektron pochta formati noto‘g‘ri",
+      "email_max": "Elektron pochta 50 belgidan oshmasligi kerak",
+      "number": "Telefon raqam formati noto‘g‘ri",
+      "number_max": "Telefon raqam 20 belgidan oshmasligi kerak",
+      "descript": "Tavsif kamida 7 ta belgi bo‘lishi kerak",
+      "descript_max": "Tavsif 500 belgidan oshmasligi kerak"
+    }
+  },
+  
+  "About": {
+    "aboutus": "Biz haqimizda",
+    "text1": "Elisof — kiyim-kechak va to‘qimachilik mahsulotlariga ixtisoslashgan global eksport-import kompaniyasi. U yuqori sifatli kiyim-kechakni xarid qilish, ishlab chiqarish va butun dunyo bo‘ylab tarqatish bilan shug‘ullanadi, mukammal matolar, etik ishlab chiqarish va uzluksiz logistika kafolatini ta’minlaydi. Ishonchli ta’minot zanjiri orqali Elisof moda brendlarini global bozorlarga samarali ulaydi."
+  },
+  "Feedback": {
+    "feedback": "Mijozlarimiz fikrlari",
+    "trust": "Mijozlarimizga ishonchingizni bildiring"
+  },
+  "Newz": {
+    "new": "Yangiliklar"
+  },
+  "Request": {
+    "reqs": "So‘rov yuboring",  
+    "contactsoon": "Tez orada bog‘lanamiz"
+  },
+  
+  "Footer": {
+    "Copyright": "Mualliflik huquqi",
+    "AllRights": "Barcha huquqlar himoyalangan",
+    "DevelopedBy": "Ishlab chiqilgan",
+    "FooterNav": {
+      "Home": { "name": "Bosh sahifa", "link": "#home" },
+      "Products": { "name": "Mahsulotlar", "link": "#products" },
+      "AboutUs": { "name": "Biz haqimizda", "link": "#about" },
+      "OurClients": { "name": "Mijozlarimiz", "link": "#clients" },
+      "News": { "name": "Yangiliklar", "link": "#news" },
+      "ContactUs": { "name": "Biz bilan bog‘lanish", "link": "#contacts" },
+      "FollowUs": { "name": "Bizni kuzatib boring" },
+      "Location": { "name": "Manzil" },
+      "Address": { "name": "123-ko‘cha, Shahar" }
+    }
+    
+  },
+  "Metadata": {
+    "Main": {
+      "Home": "Bosh sahifa",
+      "Desc": "Milliy mahsulotlar onlayn do'koni"
+    },
+    "Products": {
+      "Products": "Mahsulotlar"
+    },
+    "Cart": {
+      "Cart": "Savat"
+    }
+  },
+  "Home": {
+    "PopularProducts": "Ommabop mahsulotlar",
+    "ViewProducts": "Barcha mahsulotlarni ko'rish"
+  },
+  "ProductCard": {
+    "AddToCart": "Savatchaga",
+    "BuyNow": "Sotib olish"
+  },
+  "News": {
+    "News": "Yangiliklar",
+    "View": "Barcha yangiliklarni ko'rish",
+    "ViewArticle": "Maqolani ko'rish",
+    "ViewVideo": "Videoni ko'rish"
+  },
+  "HomeAbout": {
+    "ArtMade": "Bright gallery da yasalgan san'at",
+    "PotteryArt": "Kulolchilik san'atiga qiziqqanlarga e'tibor",
+    "Text1": "Biz 15 yildan beri kulolchilik san'ati bilan shug'ullanamiz",
+    "Text2": "Bizning hunarmandlar tomonidan yaratilgan namunalarning O'zbekistonning turli mintaqalaridagi turistik markazlarda va, albatta, Toshkent shahrida ko'rish mumkin.",
+    "Text3": "Bizning maqsadimiz O'zbekistonning madaniy merosi va hunarmandchilik an'analarini doimiy ravishda rivojlantirish!",
+    "Text4": "Shunday ekan, bizga qo'shilish uchun hozir obuna bo'ling."
+  },
+  "Common": {
+    "ContactUs": "Aloqa",
+    "Products": "Mahsulotlar",
+    "Comments": "Izohlar",
+    "RateProd": "Mahsulotni baholang",
+    "AddComment": "Izoh qo'shish",
+    "BackToMain": "Asosiy sahifaga qaytish",
+    "Delete": "O'chirish",
+    "Save": "Saqlash",
+    "Cancel": "Bekor qilish",
+    "AddNewAddress": "Yangi manzil qo'shish",
+    "AddNewCard": "Yangi karta qo'shish",
+    "SelectAddress": "Manzilni tanlang",
+    "Card": "Karta",
+    "SureDeleteAddress": "Bu manzilni o'chirishni xohlaysizmi?",
+    "SureDeleteCard": "Bu kartani o'chirishni xohlaysizmi?",
+    "ChoosePayment": "To'lov kartasini tanlang",
+    "FieldRequired": "To'ldirish majburiy",
+    "InvalidEmail": "Elektron pochta manzili to'g'ri bo'lishi kerak",
+    "PassMatch": "Parollar mos kelishi kerak",
+    "PassLong": "Parol kamida 8 ta belgidan iborat bo'lishi kerak",
+    "PassSpecial": "Parolda kamida bitta maxsus belgi bo'lishi kerak",
+    "ForgotPass": "Parolingizni unutdingizmi?",
+    "SmtWentWrong": "Nimadir noto'g'ri ketdi",
+    "OrderConfirm": "Buyurtma berishni xohlaysizmi?",
+    "Order": "Buyurtma",
+    "SuccessCard": "Karta muvaffaqiyatli qo'shildi",
+    "SuccessLocation": "Manzil muvaffaqiyatli qo'shildi",
+    "SuccessLocationUpdate": "Manzil muvaffaqiyatli yangilandi",
+    "SuccessDeleted": "Muvaffaqiyatli o'chirildi",
+    "YouCantRemoveMain": "Asosiy manzilni o'chirish mumkin emas",
+    "UserInfoUpdate": "Ma'lumotlaringiz muvaffaqiyatli yangilandi",
+    "YourMsgSent": "Xabar muvaffaqiyatli yuborildi!",
+    "EnterConfirmation": "Tasdiqlash kodini kiriting",
+    "ConfirmationCode": "Tasdiqlash kodi",
+    "ConfirmationText": "Tasdiqlash kodi elektron pochta manzilingizga yuborildi. Iltimos, elektron pochtangizni tekshiring va davom etish uchun quyida berilgan maydonga kodni kiriting.",
+    "Verify": "Tasdiqlash",
+    "ChangePass": "Parolni o'zgartirish",
+    "Submit": "Tasdiqlash",
+    "SuccessAddedCart": "Mahsulot savatchaga muvaffaqiyatli qo'shildi!",
+    "ClearCart": "Hammasini olib tashlash",
+    "SoldOutText": "Bu mahsulot sotildi, lekin siz hali ham buyurtma berishingiz mumkin.",
+    "SoldOutText2": "Bu mahsulot sotildi",
+    "SoldOut": "Sotildi",
+    "LimitText": "Sizning buyurtma miqdoringiz bizning hozirgi zaxiramizdan oshib ketmoqda. Buyurtmangizni bajarish mumkin, lekin tayyor bo'lishigacha kutish kerak bo'ladi. Davom etishni xohlaysizmi?",
+    "PaymentCardLabel": "To'lov kartasi"
+  },
+  "Faq": {
+    "FaqTitle": "Ko'p so'raladigan savollar",
+    "Faq": "FAQ"
+  },
+  "Catalog": {
+    "FilterKeys": {
+      "All": "Barchasi",
+      "Authors": "Mualliflar",
+      "InStock": "Omborda"
+    },
+    "Search": "Qidirish"
+  },
+  "Cart": {
+    "ShoppingCart": "Xarid savati",
+    "OrderSummary": "Buyurtma tafsilotlari",
+    "Subtotal": "Jami",
+    "Discount": "Chegirma",
+    "Total": "Umumiy",
+    "Pay": "To'lash",
+    "Recommendations": "Tavsiyalar",
+    "EmptyCart": "Savatingiz bo'sh",
+    "OrderThings": "Agar narsalarni buyurtma qilsangiz, ular ushbu sahifada paydo bo'ladi",
+    "EnterPromocode": "Promokodni kiriting",
+    "EnterYourPromocode": "Promokodingizni kiriting",
+    "PromocodeSuccess": "Promokod muvaffaqiyatli qo'llandi",
+    "PromoDiscount": "Promokod chegirmasi"
+  },
+  "Order": {
+    "OrderDetails": "Buyurtma tafsilotlari",
+    "ChooseOrderLocation": "Buyurtma joyini tanlang",
+    "MakeOrder": "Buyurtma berish",
+    "AddOrderLocation": "Buyurtma manzilini qo'shish",
+    "Country": "Davlat",
+    "City": "Shahar",
+    "Street": "Ko'cha",
+    "ZipCode": "Pochta indeksi",
+    "PhoneNumber": "Telefon raqami",
+    "TitleAddress": "Manzil nomi",
+    "Uzbekistan": "O'zbekiston",
+    "Tashkent": "Toshkent",
+    "ANavoiy": "A. Navoiy",
+    "First": "Teatr",
+    "OrderSuccess": "Buyurtma muvaffaqiyatli amalga oshirildi",
+    "ChoosePayment": "To'lov kartasini tanlang",
+    "CardName": "Karta nomi",
+    "CardNumber": "Karta raqami",
+    "ExpDate": "Muddati",
+    "AddPaymentCard": "To'lov kartasini qo'shish",
+    "PaymentError": "To‘lovda xatolik yuz berdi. Iltimos, qaytadan urinib ko‘ring."
+  },
+  "AboutUs": {
+    "AboutUs": "Biz haqimizda",
+    "AboutCompany": {
+      "AboutOne": {
+        "image": "/about-1.jpg",
+        "title": "Namunalari",
+        "text": "Ustalarimiz tomonidan yaratilgan namunalarning O'zbekistonning turli mintaqalaridagi turistik markazlarda va, albatta, Toshkent shahrida ko'rish mumkin."
+      },
+      "AboutTwo": {
+        "image": "/about-2.jpg",
+        "title": "Yorqin galereya",
+        "text": "Yorqin galereyaning faoliyati haqida gaplashaylik. Biz 15 yildan beri kulolchilik san'ati bilan shug'ullanamiz."
+      },
+      "AboutThree": {
+        "image": "/about-3.jpg",
+        "title": "Bizning maqsadimiz",
+        "text": "Bizning maqsadimiz O'zbekistonning madaniy merosi va hunarmandchilik an'analarini doimiy ravishda rivojlantirish!"
+      }
+    },
+    "AboutOwnerTitle": "Jurayev Gayrat haqida",
+    "AboutOwner": {
+      "AboutOne": {
+        "text": "U 1989 yilda Buxoro viloyatining G'ijduvon tumanida tug'ilgan. U 3-sinfda kulolchilikni o'rganishni boshlagan, 4-sinfdan boshlab tuman va shahar musobaqalarida qatnashib, maktabni tamomlagunga qadar yuqori natijalarga erishgan.",
+        "image": "/owner-1.jpg"
+      },
+      "AboutTwo": {
+        "text": "Maktabni tugatgandan so'ng, Toshkentdagi San'at va Dizayn Kollejida o'qigan. Respublikadagi Olimpiadada 'Yilning eng yaxshi usta' nominatsiyasida g'olib bo'lgan.",
+        "image": "/owner-2.jpg"
+      },
+      "AboutThree": {
+        "text": "U Kamoliddin Behzod nomidagi Rassomlik va Dizayn institutiga umumiy asosda o'qishga qabul qilingan. 2024 yilga kelib u shahar, respublika va xalqaro tanlovlar va ko'rgazmalarda qatnashib, yuqori natijalarga erishadi.",
+        "image": "/owner-3.jpg"
+      }
+    },
+    "SendMessage": "Xabar yuborish"
+  },
+  "Contacts": {
+    "Name": "Ism",
+    "PhoneNumber": "Telefon raqami",
+    "Message": "Xabar",
+    "TypeMsg": "Xabaringizni bu yerga yozing...",
+    "Requisites": {
+      "ROne": {
+        "name": "Telefon",
+        "value": "+998 95 551 11 55",
+        "type": "phoneType"
+      },
+      "RTwo": {
+        "name": "Manzil",
+        "value": "Toshkent, shahar parki, Toshkent Siti savdo markaziga qarshi",
+        "type": "addressType"
+      },
+      "RThree": {
+        "name": "Elektron pochta",
+        "value": "brightgallery.uz@gmail.com",
+        "type": "emailType"
+      },
+      "RFour": {
+        "name": "Ijtimoiy tarmoqlar",
+        "value": {
+          "One": "/telegram.svg",
+          "Two": "/insta.svg"
+        }
+      }
+    },
+    "SendMessage": "Xabar yuborish"
+  },
+  "Profile": {
+    "Profile": "Profil",
+    "ProfileSidebar": {
+      "One": {
+        "Name": "Mening manzilim",
+        "Link": "/profile/address"
+      },
+
+      "Two": {
+        "Name": "Buyurtmalar",
+        "Link": "/profile/orders"
+      },
+      "Three": {
+        "Name": "Kartalar",
+        "Link": "/profile/card"
+      }
+    },
+    "LeaveAcc": "Akkauntdan chiqish",
+    "DeleteAcc": "Akkauntni o'chirish",
+    "ProfileForm": {
+      "Name": "Ism",
+      "Email": "Elektron pochta",
+      "Surname": "Familiya"
+    },
+    "Orders": {
+      "Orders": "Buyurtmalar",
+      "OrderProcessed": "Buyurtma qayta ishlanmoqda:",
+      "Confirmed": "Tasdiqlangan",
+      "Items": "Tovarlar",
+      "Order": "Buyurtma",
+      "ToPay": "To'lov uchun",
+      "LeaveComment": "Izoh qoldirish",
+      "AddCommentPlaceholder": "Izoh qo'shish (ixtiyoriy)",
+      "Send": "Jo'natish",
+      "Discount": "Chegirma",
+      "Pcs": "dona",
+      "ChoosePhotoPlaceholder": "Faqat bitta rasmni tanlang (ixtiyoriy)",
+      "CommentSuccess": "Izohingiz muvaffaqiyatli qo'shildi",
+      "Statuses": {
+        "canceled": "Bekor qilindi",
+        "pending": "Kutilmoqda",
+        "approved": "Tasdiqlandi",
+        "delivered": "Yetkazilmoqda",
+        "finished": "Tugallandi"
+      }
+    },
+    "SignOut": "Chiqish"
+  },
+  "Auth": {
+    "SignUpAccount": "Akkauntni ro'yxatdan o'tkazish",
+    "NamePlaceholder": "Ismingiz...",
+    "SurnamePlaceholder": "Familiyangiz...",
+    "EmailPlaceholder": "Elektron pochta manzilingiz...",
+    "PassPlaceholder": "Parolingiz...",
+    "Name": "Ism",
+    "Surname": "Familiya",
+    "Email": "Elektron pochta",
+    "Password": "Parol",
+    "SignUp": "Ro'yxatdan o'tish",
+    "SignUpGoogle": "Google orqali ro'yxatdan o'tish",
+    "IfYouHave": "Agar sizda allaqachon akkaunt mavjud bo'lsa, bosing",
+    "SignInAccount": "Akkauntga kirish",
+    "SignIn": "Kirish",
+    "SignInGoogle": "Google orqali kirish",
+    "IfYouHavent": "Agar sizda akkaunt bo'lmasa,",
+    "PassOrEmailInvalid": "Noto'g'ri parol yoki elektron pochta",
+    "ConfirmPassWord": "Parolni tasdiqlang",
+    "ConfirmPassPlaceholder": "Parolingizni tasdiqlang...",
+    "InvalidPassOrLog": "Noto'g'ri elektron pochta yoki parol",
+    "ResetPassText": "Iltimos, yangi parolni kiriting, uni tasdiqlang va parolni tiklash uchun 'Jo'natish' tugmasini bosing.",
+    "NewPassword": "Yangi parol",
+    "TextForgotPassEmail": "Quyida elektron pochta manzilingizni kiriting va biz sizga parolni tiklash havolasini yuboramiz. Yangi parol tanlash va akkauntingizga kirish uchun elektron pochta xabari ko'rsatmalariga amal qiling.",
+    "WeHaveSentEmail": "Parolni tiklash havolasi ko'rsatilgan xabar elektron pochta manzilingizga yuborildi. Iltimos, pochtangizni tekshiring va jarayonni yakunlash uchun ko'rsatmalarga amal qiling.",
+    "Leave": "Chiqish",
+    "LogOutText": "Chiqishni xohlaysizmi?",
+    "AreYouSureToDeleteAccount": "Akkauntingizni o'chirishni xohlaysizmi?",
+    "InvalidOtp": "Noto'g'ri tasdiqlash kodi!",
+    "SuccessAccount": "Tabriklaymiz! ro'yxatdan muvaffaqiyatli o'tdingiz.",
+    "SuccessResetPass": "Parolingiz muvaffaqiyatli yangilandi",
+    "ResendCode": "Kodni qayta jo'natish",
+    "CodeSent": "Tasdiqlash kodi yuborildi",
+    "LinkSent": "Havola jo'natildi"
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "Header": {
+    "Nav": {
+      "Home": { "name": "Home", "link": "/" },
+      "Products": { "name": "Products", "link": "#products" },
+      "AboutUs": { "name": "About us", "link": "#about" },
+      "OurClients": { "name": "Our clients", "link": "#clients" },
+      "News": { "name": "News", "link": "#news" },
+      "ContactUs": { "name": "Contact Us", "link": "#contacts" }
+    }
+  },
+  "ScriptsBeautiful":{
+    "firsttext":"Get ready for Our stylish shirts",
+    "secondtext":"Discover premium quality uniforms",
+    "thirdtext":"Experience comfort with designs"
+  },
+  "BestSeller":{
+    "bestseller":"Best Seller Items",
+    "shirt":"T-shirt green",
+    "material":"Material: Cotton 100%",
+    "sizes":"Available sizes: S; M; L",
+    "unisex":"For: Male and Female"
+  },
+
+  "Buttons": {
+    "fmsproduct": "Famous Product",
+    "contactuss": "Contact us",
+    "prev":"Previous",
+    "next":"Next",
+    "sendrequest":"Send Request"
+  }, 
+
+  "Form":{
+    "name":"First and Second name",
+    "lname":"Last Name",
+    "email":"Email",
+    "number":"Phone Number",
+    "descript":"Description",
+    "errors": {
+      "name": "Name must be at least 3 characters",
+      "name_max": "Name cannot exceed 50 characters",
+      "lname": "Surname must be at least 3 characters",
+      "lname_max": "Surname cannot exceed 50 characters",
+      "email": "Invalid email format",
+      "email_max": "Email cannot exceed 50 characters",
+      "number": "Invalid phone number format",
+      "number_max": "Phone number cannot exceed 20 characters",
+      "descript": "Description must be at least 7 characters",
+      "descript_max": "Description cannot exceed 500 characters"
+    }
+  },
+  "About":{
+    "aboutus":"About us",
+    "text1":"Elisof is a global export-import company specializing in clothing and textiles. It sources, manufactures, and distributes high-quality apparel worldwide, ensuring premium fabrics, ethical production, and seamless logistics. With a strong supply chain, Elisof connects fashion brands to global markets efficiently."
+  },
+  "Feedback":{
+    "feedback":"Our Customers’ Feedback",
+    "trust":"Trust our customers"
+  },
+
+  "Newz":{
+    "new":"News"
+  },
+  "Request":{
+    "reqs":"Send request",
+    "contactsoon":"We will contact soon"
+  },
+  "Footer": {
+    "Copyright": "Copyright",
+    "AllRights": "All Rights Reserved",
+    "DevelopedBy": "Developed by",
+    "FooterNav": {
+      "Home": { "name": "Home", "link": "#home" },
+      "Products": { "name": "Products", "link": "#products" },
+      "AboutUs": { "name": "About us", "link": "#about" },
+      "OurClients": { "name": "Our clients", "link": "#clients" },
+      "News": { "name": "News", "link": "#news" },
+      "ContactUs": { "name": "Contact Us", "link": "#contacts" },
+      "FollowUs": { "name": "Follow Us"},
+      "Location": { "name": "Location"},
+      "Address": {"name":"123 Street Name, City"}
+    }
+  },
+  "Home": {
+    "PopularProducts": "Popular products",
+    "ViewProducts": "View all products"
+  },
+  "ProductCard": {
+    "AddToCart": "Add to cart",
+    "BuyNow": "Buy now"
+  },
+  "News": {
+    "News": "News",
+    "View": "View all news",
+    "ViewArticle": "View article",
+    "ViewVideo": "View video"
+  },
+  "HomeAbout": {
+    "ArtMade": "Art made in Bright gallery",
+    "PotteryArt": "Attention to everyone who is interested in pottery art",
+    "Text1": "We have been engaged in pottery art for 15 years",
+    "Text2": "Samples created by our craftsmen can be seen in tourist centers of various regions of Uzbekistan and, of course, in the city of Tashkent.",
+    "Text3": "Our goal is to constantly develop the cultural heritage and craft traditions of Uzbekistan!",
+    "Text4": "So subscribe now to join us."
+  },
+  "Common": {
+    "ContactUs": "Contact us",
+    "Products": "Products",
+    "Comments": "Comments",
+    "RateProd": "Rate our product",
+    "AddComment": "Add comment",
+    "BackToMain": "Back to main page",
+    "Delete": "Delete",
+    "Save": "Save",
+    "Cancel": "Cancel",
+    "AddNewAddress": "Add New Address",
+    "AddNewCard": "Add new card",
+    "SelectAddress": "Select Address",
+    "Card": "Card",
+    "SureDeleteAddress": "Are you sure you want to delete this address?",
+    "SureDeleteCard": "Are you sure you want to delete this card?",
+    "ChoosePayment": "Choose payment card",
+    "FieldRequired": "Field is required",
+    "InvalidEmail": "Email must be valid",
+    "PassMatch": "Passwords must match",
+    "PassLong": "Password must be at least 8 characters long",
+    "PassSpecial": "Password must contain at least one special character",
+    "ForgotPass": "Forgot your password?",
+    "SmtWentWrong": "Something went wrong",
+    "OrderConfirm": "Do you want to order ?",
+    "Order": "Order",
+    "SuccessCard": "The card successfully added",
+    "SuccessLocation": "The address was successfully added",
+    "SuccessLocationUpdate": "The address was successfully updated",
+    "SuccessDeleted": "Successfully deleted",
+    "YouCantRemoveMain": "Main address cannot be deleted",
+    "UserInfoUpdate": "Your information was successfully updated",
+    "YourMsgSent": "Message sent successfully!",
+    "EnterConfirmation": "Enter confirmation code",
+    "ConfirmationCode": "Confirmation code",
+    "ConfirmationText": "A confirmation code has been sent to your email address. Please check your email and enter the code in the field provided below to proceed.",
+    "Verify": "Verify",
+    "ChangePass": "Change password",
+    "Submit": "Submit",
+    "SuccessAddedCart": "Item added to your cart successfully!",
+    "ClearCart": "Remove all",
+    "SoldOutText": "This product is sold out, but you can still order it.",
+    "SoldOutText2": "This product is sold out",
+    "SoldOut": "Sold out",
+    "LimitText": "Your order quantity exceeds our current stock. It's possible to fulfill your order, but there will be a wait until it's ready. Do you want to continue?",
+    "PaymentCardLabel": "Payment card"
+  },
+  "Faq": {
+    "FaqTitle": "Frequently asked questions",
+    "Faq": "FAQ"
+  },
+  "Catalog": {
+    "FilterKeys": {
+      "All": "All",
+      "Authors": "Author's",
+      "InStock": "In Stock"
+    },
+    "Search": "Search"
+  },
+  "Cart": {
+    "ShoppingCart": "Shopping Cart",
+    "OrderSummary": "Order Summary",
+    "Subtotal": "Subtotal",
+    "Discount": "Discount",
+    "Total": "Total",
+    "Pay": "Pay",
+    "Recommendations": "Recommendations",
+    "EmptyCart": "Your cart is empty",
+    "OrderThings": "If you order things, they will appear in this page",
+    "EnterPromocode": "Enter promocode",
+    "EnterYourPromocode": "Enter your promocode",
+    "PromocodeSuccess": "Promocode is successfully applied",
+    "PromoDiscount": "Promocode discount"
+  },
+  "Order": {
+    "OrderDetails": "Order details",
+    "ChooseOrderLocation": "Choose order location",
+    "MakeOrder": "Make order",
+    "AddOrderLocation": "Add order location",
+    "Country": "Country",
+    "City": "City",
+    "Street": "Street",
+    "ZipCode": "Zip code",
+    "PhoneNumber": "Phone number",
+    "TitleAddress": "Title of the address",
+    "Uzbekistan": "Uzbekistan",
+    "Tashkent": "Tashkent",
+    "ANavoiy": "A. Navoiy",
+    "First": "Theatre",
+    "OrderSuccess": "Order successfully placed",
+    "ChoosePayment": "Choose payment card",
+    "CardName": "Card name",
+    "CardNumber": "Card number",
+    "ExpDate": "Exp.Date",
+    "AddPaymentCard": "Add payment card"
+  },
+  "AboutUs": {
+    "AboutUs": "About us",
+    "AboutCompany": {
+      "AboutOne": {
+        "image": "/about-1.jpg",
+        "title": "Samples",
+        "text": "Samples created by our masters can be seen in tourist centers of various regions of Uzbekistan and, course, in the city of Tashkent."
+      },
+      "AboutTwo": {
+        "image": "/about-2.jpg",
+        "title": "Bright gallery",
+        "text": "Let's talk about the activities of Bright Gallery We have been engaged in pottery art for 15 years."
+      },
+      "AboutThree": {
+        "image": "/about-3.jpg",
+        "title": "Our goal",
+        "text": "Our goal is to constantly develop the cultural heritage and craft traditions of Uzbekistan!"
+      }
+    },
+    "AboutOwnerTitle": "About Djurayev Gayrat",
+    "AboutOwner": {
+      "AboutOne": {
+        "text": "He was born in 1989 in  the Gizhdivon district of Bukhara region. He began studying pottery in the 3rd grade, from the 4th grade he participated in regional and city competitions and achieved high results until he graduated from school",
+        "image": "/owner-1.jpg"
+      },
+      "AboutTwo": {
+        "text": "After graduating from school, he studied at the College of Art and Design in Tashkent. He was recognized as the winner in the category best master of the year at the Republican Olympiad",
+        "image": "/owner-2.jpg"
+      },
+      "AboutThree": {
+        "text": "He was accepted to study at the Institute of Painting and Design named after Kamoliddin Bekhzod on a general basis. By 2024, he will participate in city, republican and international competitions and exhibitions, achieving high results.",
+        "image": "/owner-3.jpg"
+      }
+    },
+    "SendMessage": "Send message"
+  },
+  "Contacts": {
+    "Name": "Name",
+    "PhoneNumber": "Phone number",
+    "Message": "Message",
+    "TypeMsg": "Type your message here...",
+    "Requisites": {
+      "ROne": {
+        "name": "Phone",
+        "value": "+998 95 551 11 55",
+        "type": "phoneType"
+      },
+      "RTwo": {
+        "name": "Address",
+        "value": "Tashkent city park, in front of Tashkent city mall",
+        "type": "addressType"
+      },
+      "RThree": {
+        "name": "E-mail",
+        "value": "brightgallery.uz@gmail.com",
+        "type": "emailType"
+      },
+      "RFour": {
+        "name": "Social media",
+        "value": {
+          "One": "/telegram.svg",
+          "Two": "/insta.svg"
+        }
+      }
+    },
+    "SendMessage": "Send message"
+  },
+  "Profile": {
+    "Profile": "Profile",
+    "ProfileSidebar": {
+      "One": {
+        "Name": "My address",
+        "Link": "/profile/address"
+      },
+      "Two": {
+        "Name": "Orders",
+        "Link": "/profile/orders"
+      },
+      "Three": {
+        "Name": "Cards",
+        "Link": "/profile/card"
+      }
+    },
+    "LeaveAcc": "Leave account",
+    "DeleteAcc": "Delete account",
+    "ProfileForm": {
+      "Name": "Name",
+      "Email": "Email",
+      "Surname": "Surname"
+    },
+    "Orders": {
+      "Orders": "Orders",
+      "OrderProcessed": "Order is processed:",
+      "Confirmed": "Confirmed",
+      "Items": "Items",
+      "Order": "Order",
+      "ToPay": "To pay",
+      "LeaveComment": "Leave comment",
+      "AddCommentPlaceholder": "Add a comment (optional)",
+      "Send": "Send",
+      "Discount": "Discount",
+      "Pcs": "pcs",
+      "ChoosePhotoPlaceholder": "Choose only one photo (optional)",
+      "CommentSuccess": "Your comment successfully added",
+      "PaymentError": "Payment error. Please try again.",
+      "Statuses": {
+        "canceled": "Cancelled",
+        "pending": "Pending",
+        "approved": "Approved",
+        "delivered": "Delivering",
+        "finished": "Finished"
+      }
+    },
+    "SignOut": "Sign out"
+  },
+  "Auth": {
+    "SignUpAccount": "Sign Up to your account",
+    "NamePlaceholder": "Your name...",
+    "SurnamePlaceholder": "Your surname...",
+    "EmailPlaceholder": "Your email...",
+    "PassPlaceholder": "Your password...",
+    "Name": "Name",
+    "Surname": "Surname",
+    "Email": "Email",
+    "Password": "Password",
+    "SignUp": "Sign up",
+    "SignUpGoogle": "Sign Up with Google",
+    "IfYouHave": "If you have an account, push",
+    "SignInAccount": "Sign In to your account",
+    "SignIn": "Sign In",
+    "SignInGoogle": "Sign in with Google",
+    "IfYouHavent": "If you do not have an account, push",
+    "PassOrEmailInvalid": "Invalid password or email",
+    "ConfirmPassWord": "Confirm password",
+    "ConfirmPassPlaceholder": "Confirm your password...",
+    "InvalidPassOrLog": "Invalid email or password",
+    "ResetPassText": "Please enter your new password, confirm it, and click 'Submit' to reset your password.",
+    "NewPassword": "New password",
+    "TextForgotPassEmail": "Enter your email address below, and we'll send you a link to reset your password. Follow the instructions in the email to choose a new password and regain access to your account.",
+    "WeHaveSentEmail": "An email with a link to reset your password has been sent to the provided email address. Please check your inbox and follow the instructions to complete the process.",
+    "Leave": "Leave",
+    "LogOutText": "Are you sure you want to log out?",
+    "AreYouSureToDeleteAccount": "Are you sure you want to delete your account?",
+    "InvalidOtp": "Invalid confirmation code!",
+    "SuccessAccount": "Congratulations! Your account has been successfully created.",
+    "SuccessResetPass": "Your password has been successfully updated",
+    "ResendCode": "Resend Code",
+    "CodeSent": "Confirmation code has been sent",
+    "LinkSent": "Link has been sent"
+  }
+}
