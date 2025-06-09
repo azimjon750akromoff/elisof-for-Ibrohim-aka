@@ -71,7 +71,7 @@ export default async function NewsDetailPage({ params }: PageProps) {
   }
 
   return (
-    <div className="p-8 max-w-4xl mx-auto">
+    <div className="p-8 mt-12 max-w-4xl mx-auto">
       <h1 className="text-2xl font-bold mb-6 text-[#0F1E3D]">{newsItem.title}</h1>
       <Image
         src={newsItem.image}

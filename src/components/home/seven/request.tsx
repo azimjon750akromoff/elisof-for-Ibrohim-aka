@@ -13,7 +13,7 @@ function Request() {
         <div className="flex flex-col md:flex-row justify-center md:justify-between items-center gap-[65px]">
           {/* Left Section - Image & Text */}
           <div className="w-full md:w-[80%] flex flex-col gap-4 md:gap-[25px] text-center md:text-start">
-            <h2 className="font-federo text-2xl md:text-[42px] mb-3 font-normal md:leading-[0.856px] pb-[10px]">
+            <h2 className="font-federo text-[1.7rem] md:text-[42px] mb-3 font-normal md:leading-[0.856px] pb-[10px]">
               {r("reqs")}
             </h2>
 
