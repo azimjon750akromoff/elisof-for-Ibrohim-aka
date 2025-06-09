@@ -8,7 +8,7 @@ function News() {
   const b = useTranslations("Newz");
   return (
     <section id="news" className="pt-[1.5rem] md:pt-[4rem]">
-      <div className="max-w-[1000px] mx-auto ml-2 px-3 sm:px-4 flex flex-col items-center">
+      <div className="container mx-auto px-3 sm:px-4 flex flex-col items-center">
         <div className="text-center">
           <h2 className="font-federo text-[1.7rem] sm:text-3xl md:text-4xl lg:text-5xl font-normal">
             {b('new')}
